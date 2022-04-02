@@ -30,12 +30,12 @@
         "BOT_USERNAME": {
             "description": "قم بوضع يوزر بوتك بدون علامة @",
             "required": true,
-            "value": "MR_X_N_2"
+            "value": "MR_X_N_2_Bot"
         },
         "ASSISTANT_NAME": {
             "description": "قم بوضع يوزر الحساب المساعد بدون علامة @",
             "required": true,
-            "value": "MR_X_MUSIC0"
+            "value": "MR_X_N_5"
         },
         "SESSION_NAME": {
             "description": "قم بوضع كود تيرمكس هنا",
@@ -44,22 +44,22 @@
         "SUDO_USERS": {
             "description": "قم بوضع ايدي المطور الاساسي",
             "required": true,
-            "value": "1970797144"
+            "value": "5164887044"
         },
         "GROUP_SUPPORT": {
             "description": "ضع هنا يوزر جروبك بدون علامة @",
             "required": true,
-            "value": "MUSIC123"
+            "value": "SULTAN1_1B"
         },
         "UPDATES_CHANNEL": {
             "description": "ضع هنا يوزر قناتك بدون علامة @",
             "required": true,
-            "value": "MUSIC123"
+            "value": "MR_X_N_2"
         },
         "OWNER_NAME": {
             "description": "ضع هنا يوزر المطور بدون علامة @",
             "required": true,
-            "value": "MUSIC123"
+            "value": "MR_X_N_5"
         },
         "BOT_PHOTO": {
             "description": "ضع لينك صورة البوت من هنا @T_ELEGRAPH00BOT",
@@ -76,7 +76,7 @@
         "ALIVE_NAME": {
             "description": "ضع هنا اسم الحساب المساعد",
             "required": true,
-            "value": "MUSIC123"
+            "value": "MR_X_N_5"
         },
         "MONGODB_URL": {
             "description": "لا تغيره!",
