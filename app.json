@@ -1,19 +1,19 @@
 {
-    "name": "Video x Music Stream Bot",
-    "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by PyTgCalls and Pyrogram",
-    "logo": "https://telegra.ph/file/18b88af791e36bf3c4259.jpg",
+    "name": "MUSIC123 Stream Bot",
+    "description": "Telegram bot for Streaming MUSIC123 trought the Telegram Group Video Chat, powered by PyTgCalls and Pyrogram",
+    "logo": "https://telegra.ph/file/c09c4a5c6b21502daf8bd.jpg",
     "keywords": [
         "py-tgcalls",
         "telegram bot",
-        "video stream",
+        "MUSIC123",
         "live stream",
         "music stream",
         "mongodb",
         "pyrogram"
     ],
-    "website": "https://t.me/FA9SH",
-    "repository": "https://github.com/USDDBOOT/Shadow",
-    "success_url": "https://t.me/usddshad",
+    "website": "https://t.me/MR_X_N_2",
+    "repository": "https://github.com/Abdulrahmman8894/MUSIC123",
+    "success_url": "https://t.me/SULTAN1_1B",
     "env": {
         "API_ID": {
             "description": "قم بوضع الايبي ايدي هنا",
@@ -30,12 +30,12 @@
         "BOT_USERNAME": {
             "description": "قم بوضع يوزر بوتك بدون علامة @",
             "required": true,
-            "value": "USDDBOT"
+            "value": "MR_X_N_2"
         },
         "ASSISTANT_NAME": {
             "description": "قم بوضع يوزر الحساب المساعد بدون علامة @",
             "required": true,
-            "value": "SHADOW_MUSIC0"
+            "value": "MR_X_MUSIC0"
         },
         "SESSION_NAME": {
             "description": "قم بوضع كود تيرمكس هنا",
@@ -49,17 +49,17 @@
         "GROUP_SUPPORT": {
             "description": "ضع هنا يوزر جروبك بدون علامة @",
             "required": true,
-            "value": "shadow49"
+            "value": "MUSIC123"
         },
         "UPDATES_CHANNEL": {
             "description": "ضع هنا يوزر قناتك بدون علامة @",
             "required": true,
-            "value": "FA9SH"
+            "value": "MUSIC123"
         },
         "OWNER_NAME": {
             "description": "ضع هنا يوزر المطور بدون علامة @",
             "required": true,
-            "value": "usddshad"
+            "value": "MUSIC123"
         },
         "BOT_PHOTO": {
             "description": "ضع لينك صورة البوت من هنا @T_ELEGRAPH00BOT",
@@ -76,7 +76,7 @@
         "ALIVE_NAME": {
             "description": "ضع هنا اسم الحساب المساعد",
             "required": true,
-            "value": "𝑺𝑯𝑨𝑫𝑶𝑾 𝑴𝑼𝑺𝑰𝑪"
+            "value": "MUSIC123"
         },
         "MONGODB_URL": {
             "description": "لا تغيره!",
