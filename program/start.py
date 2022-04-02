@@ -73,7 +73,7 @@ async def start_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "• نـصـب بـوتك مـن هـنا •", url="https://t.me/MR_X_N_5",
+                        "• نـصـب بـوتك مـن هـنا •", url="https://github.com/Abdulrahmman8894/MUSIC123",
                     )
                 ],
                 [InlineKeyboardButton("", callback_data="cbhowtouse")],
@@ -144,7 +144,7 @@ async def help(client: Client, message: Message):
      )
   )
 
-@Client.on_message(command(["لب التوكن", f"لب_التوكن", "hadow"]) & filters.private & ~filters.edited)
+@Client.on_message(command(["لب التوكن", f"لب_التوكن", "MUSIC123"]) & filters.private & ~filters.edited)
 @sudo_users_only
 async def shadow(c: Client, message: Message):
     start = time()
@@ -210,7 +210,7 @@ async def new_chat(c: Client, m: Message):
                         [
                             InlineKeyboardButton(
                         "♡اضـف الـبـوت لـمـجـمـوعـتـك♡",
-                        url=f'https://t.me/USDDBOT?startgroup=true'),
+                        url=f'https://t.me/MR_X_7bot?startgroup=true'),
                         ],
                     ]
                 )
