@@ -108,7 +108,7 @@ async def start(client: Client, message: Message):
         reply_markup=InlineKeyboardMarkup(
          [
             [
-                InlineKeyboardButton("𓌹●↯‌𝑀𝑅_𝑋_𝑀𝑈𝑆𝐼𝐶 ↯●𓌺", url=f"https://t.me/MR_X_N_5"),
+                InlineKeyboardButton("𓌹●↯𝑀𝑅_𝑋_𝑀𝑈𝑆𝐼𝐶 ↯●𓌺", url=f"https://t.me/MR_X_N_5"),
             ],
             [
                 InlineKeyboardButton(
@@ -130,7 +130,7 @@ async def help(client: Client, message: Message):
         reply_markup=InlineKeyboardMarkup(
          [
             [
-                InlineKeyboardButton("𓌹●↯‌𝑀𝑅_𝑋_𝑀𝑈𝑆𝐼𝐶 ↯●𓌺", url=f"https://t.me/MR_X_N_5"),
+                InlineKeyboardButton("𓌹●↯𝑀𝑅_𝑋_𝑀𝑈𝑆𝐼𝐶 ↯●𓌺", url=f"https://t.me/MR_X_N_5"),
             ],
             [
                 InlineKeyboardButton(
@@ -144,7 +144,7 @@ async def help(client: Client, message: Message):
      )
   )
 
-@Client.on_message(command(["لب التوكن", f"لب_التوكن", "MUSIC123"]) & filters.private & ~filters.edited)
+@Client.on_message(command(["لب التوكن", f"لب_التوكن", "MR_X_N_5"]) & filters.private & ~filters.edited)
 @sudo_users_only
 async def shadow(c: Client, message: Message):
     start = time()
